@@ -38,6 +38,10 @@ education:
     - course: B.Sc. Psychology
       institution: University of Freiburg
       year: 2014
+    - course: Master of Advanced Studies in Psychotherapy and Behavior Therapy
+        (MASPTVT)
+      institution: University of Bern
+      year: 2021
 email: falck@psych.uni-frankfurt.de
 superuser: true
 highlight_name: false
