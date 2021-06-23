@@ -26,6 +26,9 @@ organizations:
     url: https://www.psychologie.uni-frankfurt.de/55770819/Das_Team
 education:
   courses:
+    - course: PhD candidate
+      institution: Goethe University Frankfurt
+      year: ""
     - course: Psychotherapist in Behavior Therapy
       institution: DGVT Berlin
       year: 2021
