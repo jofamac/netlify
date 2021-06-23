@@ -7,6 +7,8 @@ interests:
   - Reinforcement Learning
   - Computational Modeling
   - Episodic Memory
+  - Stress
+  - Development
   - Psychotherapy Research
 social:
   - icon: envelope
