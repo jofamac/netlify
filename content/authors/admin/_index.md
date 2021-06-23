@@ -25,7 +25,16 @@ organizations:
   - name: Goethe University Frankfurt
     url: https://www.psychologie.uni-frankfurt.de/55770819/Das_Team
 education:
-  courses: []
+  courses:
+    - course: Psychotherapist in Behavior Therapy
+      institution: DGVT Berlin
+      year: 2021
+    - institution: Free University Berlin
+      year: 2016
+      course: M.Sc. Clinical and Health Psychology
+    - course: B.Sc. Psychology
+      institution: University of Freiburg
+      year: 2014
 email: falck@psych.uni-frankfurt.de
 superuser: true
 highlight_name: false
