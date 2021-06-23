@@ -1,7 +1,7 @@
 ---
 title: Johannes Falck
 role: PhD candidate
-avatar_filename: oie_jvjip8dhnnxb.png
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Reinforcement Learning
