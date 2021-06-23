@@ -1,7 +1,7 @@
 ---
 title: Johannes Falck
 role: PhD candidate
-avatar_filename: bild_falck.png
+avatar_filename: ""
 bio: ""
 interests:
   - Reinforcement Learning
@@ -22,20 +22,11 @@ social:
     icon_pack: fab
     link: https://github.com/jofamac
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Goethe University Frankfurt
+    url: https://www.psychologie.uni-frankfurt.de/55770819/Das_Team
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+  courses: []
+email: falck@psych.uni-frankfurt.de
 superuser: true
 highlight_name: false
 ---
