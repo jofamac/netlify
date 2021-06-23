@@ -2,7 +2,7 @@
 title: "Mood repair in healthy individuals: Both processing mode and imagery
   content matter"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Laura Seebauer
   - Tobias Arthen
