@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://github.com/jofamac
 organizations:
-  - name: Goethe University Frankfurt
-    url: https://www.psychologie.uni-frankfurt.de/55770819/Das_Team
+  - name: Goethe University Frankfurt, LISCO lab
+    url: https://www.psychologie.uni-frankfurt.de/55770598/Research
 education:
   courses:
     - course: PhD candidate
