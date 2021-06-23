@@ -3,7 +3,7 @@ title: Stable longitudinal associations of family income with children’s
   hippocampal volume and memory persist after controlling for polygenic scores
   of educational attainment
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Laurel Raffington
   - Darina Czamara
@@ -13,6 +13,7 @@ authors:
   - Christine Heim
   - Elisabeth B. Binder
   - Yee Lee Shing
+doi: https://doi.org/10.1016/j.dcn.2019.100720
 abstract: Despite common notion that the correlation of socioeconomic status
   with child cognitive performance may be driven by both environmentally– and
   genetically–mediated transactional pathways, there is a lack of longitu- dinal
