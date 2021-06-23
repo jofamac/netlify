@@ -11,6 +11,7 @@ authors:
   - Lennart Koch
   - Michelle L. Moulds
   - Gitta A. Jacob
+doi: http://dx.doi.org/10.1016/j.jbtep.2015.10.005
 abstract: >-
   Background: The recall of positive autobiographical memories (mood repair) is
   an effective strategy for improving sad mood. In depressed individuals mood
