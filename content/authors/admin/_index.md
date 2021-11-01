@@ -26,6 +26,8 @@ social:
 organizations:
   - name: Goethe University Frankfurt, LISCO
     url: https://www.psychologie.uni-frankfurt.de/55770598/Research
+  - name: The adaptive mind, TAM
+    url: https://sites.google.com/view/theadaptivemind/home
 education:
   courses:
     - course: PhD candidate
